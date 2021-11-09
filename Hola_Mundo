@@ -6,6 +6,7 @@ int main (){
 
 cout <<"Hola mundo por Bryan Cruz"<<endl;
 cout <<"lalala"<<endl;
+cout <<"BIENVENIDO A POO"<<endl;
 
 return 0;
 }
